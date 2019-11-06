@@ -1,0 +1,1 @@
+# codeceptjs-multireporter-test

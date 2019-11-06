@@ -1,0 +1,12 @@
+.git
+.gitattributes
+.gitignore
+.editorconfig
+.eslintignore
+.eslintrc
+.dockerignore
+.npmignore
+.stylelintrc
+README.md
+Dockerfile
+node_modules

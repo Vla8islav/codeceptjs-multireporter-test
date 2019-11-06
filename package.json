@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Vla8islav/codeceptjs-multireporter-test#readme",
   "dependencies": {
-    "codeceptjs": "^2.3.5"
+    "codeceptjs": "^2.3.5",
+    "testcafe": "^1.6.1"
   }
 }

@@ -12,5 +12,5 @@ RUN apt-get update && apt-get install -y wget --no-install-recommends \
     && rm -rf /src/*.deb
 COPY . .
 RUN npm install
-CMD npx codeceptjs run
+CMD npx codeceptjs run-multiple parallel
 

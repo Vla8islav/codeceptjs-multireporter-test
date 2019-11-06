@@ -11,6 +11,12 @@ exports.config = {
   include: {
     I: './steps_file.js'
   },
+	multiple: {
+	  parallel: {
+	    // Splits tests into 2 chunks
+	    chunks: 4
+	  }
+	},
   bootstrap: null,
   mocha: {},
   name: 'codeceptjs-multireporter-test',
